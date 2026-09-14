@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
