@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
