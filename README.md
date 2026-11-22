@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
