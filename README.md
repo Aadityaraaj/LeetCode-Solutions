@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0389-find-the-difference](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
