@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Aadityaraaj/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
